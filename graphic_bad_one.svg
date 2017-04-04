@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="chartbuilder-export" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 500 640" style="enable-background:new 0 0 500 640;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF4500;}
+	.st1{fill:#666666;}
+	.st2{font-family:'IntroScriptR-H2Base';}
+	.st3{font-size:27.1864px;}
+	.st4{fill:#FC17FF;stroke:#2E48FF;stroke-width:5;stroke-linejoin:round;}
+	.st5{fill:#064500;stroke:#2E48FF;stroke-width:5;stroke-linejoin:round;}
+	.st6{fill:#B93200;stroke:#2E48FF;stroke-width:5;stroke-linejoin:round;}
+	.st7{fill:#F4A2FF;stroke:#2E48FF;stroke-width:5;stroke-linejoin:round;}
+	.st8{fill:#17FF60;stroke:#2E48FF;stroke-width:5;stroke-linejoin:round;}
+	.st9{fill:#ECFF2E;stroke:#2E48FF;stroke-width:5;stroke-linejoin:round;}
+	.st10{fill:none;stroke:#333333;}
+	.st11{font-size:17.6575px;}
+</style>
+<g>
+	<rect x="183" y="478.2" class="st0" width="23.6" height="92.8"/>
+	<text transform="matrix(0 -1 1 0 199.5708 564.613)" class="st1 st2 st3">середня</text>
+</g>
+<g>
+	<rect x="226.7" y="304.1" class="st0" width="23.6" height="217.7"/>
+	<g id="concealer-label_2_" transform="translate(0,103.72413793103449)">
+		<text transform="matrix(0 -1 1 0 244.6167 404.4172)" class="st1 st2 st3">середня спеціальна</text>
+	</g>
+</g>
+<g>
+	<rect x="269.1" y="377.1" class="st0" width="23.6" height="142.3"/>
+	<text transform="matrix(0 -1 1 0 286.4272 519.4431)" class="st1 st2 st3">базова вища</text>
+</g>
+<g>
+	<rect x="308.9" y="226" class="st0" width="23.6" height="75.8"/>
+	<text transform="matrix(0 -1 1 0 327.0581 290.9284)" class="st1 st2 st3">вища</text>
+</g>
+<g>
+	<rect x="349.1" y="9" class="st0" width="25.5" height="195.9"/>
+	<g id="concealer-label_5_" transform="translate(0,213.37931034482762)">
+		<text transform="matrix(0 -1 1 0 365.8853 -16.6208)" class="st1 st2 st3">загальна середня</text>
+	</g>
+</g>
+<g>
+	<g id="bar-series-group">
+		<g id="bar-series" transform="translate(0,0)">
+			<rect x="144.4" y="612.7" class="st4" width="23.6" height="11"/>
+			<rect x="185.5" y="584.4" class="st5" width="23.6" height="39.3"/>
+			<rect x="226.7" y="536.3" class="st6" width="23.6" height="87.4"/>
+			<rect x="267.8" y="533.4" class="st7" width="23.6" height="90.3"/>
+			<rect x="308.9" y="313.1" class="st8" width="23.6" height="310.6"/>
+			<rect x="350" y="217.8" class="st9" width="23.6" height="406"/>
+		</g>
+	</g>
+	<g id="grid-lines::vertical-grid-lines">
+		<line class="st10" x1="140.3" y1="627.1" x2="378.8" y2="627.1"/>
+	</g>
+</g>
+<text transform="matrix(0 -1 1 0 160.9556 622.9753)" class="st2 st11">16540</text>
+<text transform="matrix(0 -1 1 0 204.7992 622.8357)" class="st2 st11">58923</text>
+<text transform="matrix(0 -1 1 0 286.4272 613.5652)" class="st2 st11">135346.5</text>
+<text transform="matrix(0 -1 1 0 327.058 612.6824)" class="st2 st11">465487</text>
+<text transform="matrix(0 -1 1 0 244.6167 612.9031)" class="st2 st11">131042</text>
+<text transform="matrix(0 -1 1 0 366.7681 612.6824)" class="st2 st11">608396</text>
+<g>
+	<rect x="144.4" y="379.2" class="st0" width="23.6" height="196.1"/>
+	<text transform="matrix(0 -1 1 0 160.647 570.1003)" class="st1 st2 st3">незакінчена вища</text>
+</g>
+</svg>

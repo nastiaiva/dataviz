@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="chartbuilder-export" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 640 500" style="enable-background:new 0 0 640 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4B5265;}
+	.st1{font-family:'PTSans-Regular';}
+	.st2{font-size:20px;}
+	.st3{fill:#F55C4A;}
+	.st4{fill:none;stroke:#545761;stroke-width:0.75;stroke-miterlimit:10;}
+	.st5{font-size:15.2889px;}
+	.st6{fill:none;}
+	.st7{font-family:'PTSans-BoldItalic';}
+</style>
+<text transform="matrix(1 0 0 1 122.2824 203.3498)" class="st0 st1 st2">середня</text>
+<g id="concealer-label_3_" transform="translate(0,103.72413793103449)">
+	<text transform="matrix(1 0 0 1 21.9734 135.6143)" class="st0 st1 st2">середня спеціальна</text>
+</g>
+<text transform="matrix(1 0 0 1 82.1882 274.6579)" class="st0 st1 st2">базова вища</text>
+<text transform="matrix(1 0 0 1 148.0506 308.8597)" class="st0 st1 st2">вища</text>
+<g id="concealer-label_1_" transform="translate(0,213.37931034482762)">
+	<text transform="matrix(1 0 0 1 41.5886 134.4639)" class="st0 st1 st2">загальна середня</text>
+</g>
+<rect x="204.3" y="151.9" class="st3" width="9.6" height="20.5"/>
+<rect x="204.3" y="187.5" class="st3" width="34" height="20.5"/>
+<rect x="204.3" y="223" class="st3" width="75.7" height="20.5"/>
+<rect x="204.3" y="258.6" class="st3" width="78.2" height="20.5"/>
+<rect x="204.3" y="294.1" class="st3" width="268.9" height="20.5"/>
+<rect x="204.3" y="329.7" class="st3" width="351.5" height="20.5"/>
+<g id="grid-lines::vertical-grid-lines_1_">
+	<line class="st4" x1="201.4" y1="148.1" x2="201.4" y2="354.6"/>
+</g>
+<text transform="matrix(1 0 0 1 220.899 166.8017)" class="st0 st1 st5">16540</text>
+<text transform="matrix(1 0 0 1 244.899 201.9247)" class="st0 st1 st5">58923</text>
+<text transform="matrix(1 0 0 1 479.8981 307.4346)" class="st0 st1 st5">465487</text>
+<text transform="matrix(1 0 0 1 287.899 237.9135)" class="st0 st1 st5">131042</text>
+<text transform="matrix(1 0 0 1 561.8987 346.4171)" class="st0 st1 st5">608396</text>
+<text transform="matrix(1 0 0 1 36.7824 168.2266)" class="st0 st1 st2">незакінчена вища</text>
+<text transform="matrix(1 0 0 1 289.2324 273.232)" class="st0 st1 st5">135346.5</text>
+<rect x="45" y="104.8" class="st6" width="148.9" height="32"/>
+<text transform="matrix(1 0 0 1 136.5801 118.78)" class="st0 st7 st2">Degree</text>
+<rect x="427.2" y="373.2" class="st6" width="190.9" height="32"/>
+<text transform="matrix(1 0 0 1 462.6581 387.2173)" class="st0 st7 st2">Income (UAH/year)</text>
+</svg>

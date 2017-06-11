@@ -1,0 +1,29 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+The Question: Як медіана значення затримки прибуття рейсів Delta Air Lines залежить від медіани відстані?
+
+```{r}
+flights %>%
+  filter(carrier == "DL") %>%
+  group_by(dest) %>%
+  summarise(
+    median_delay = median(arr_delay, na.rm = TRUE),
+    median_distance = median(distance, na.rm = TRUE)
+    ) %>%
+  arrange(desc(median_delay))
+```
+# З пекеджа flights відфільтровуємо показники для авіаліній DL. Групуємо їх за змінною «дестинація». За допомогою функції summarise викликаємо значення медіани для затримки прибуття й відстані. Сортуємо дані в таблиці за медіаною затримки в порядку спадання. 
+```{r}
+flights %>%
+  filter(carrier == "DL") %>%
+  group_by(dest) %>%
+  summarise(
+    median_delay = median(arr_delay, na.rm = TRUE),
+    median_distance = median(distance, na.rm = TRUE)
+    ) %>% 
+    ggplot(aes(x = median_delay, y = median_distance)) + geom_point(color = "orange", size = 2) + geom_smooth() 
+```
+# За допомогою ggplot візуалізуємо таблицю, отриману з dplyr. Вісь x -- медіана затримки, вісь y -- медіана відстані. Обираємо помаранчевий колір точок із geom_point і створюємо криву через geom_smooth.
